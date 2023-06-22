@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @killmong
 - 👀 I’m interested in computer working
-- 🌱 I’m currently learning nqthing
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on IG
 - 📫 How to reach me dm me at _ironfist09
 
