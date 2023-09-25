@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @killmong
-- 👀 I’m interested in computer working
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on IG
-- 📫 How to reach me dm me at _ironfist09
-
+- 👋 Hi,Trying to be an Aspiring Engineer 
+Learning Python,Java
+🧑‍💻Eager to learn Ethical Hacking 
+Curious In Computer networking 
 
 <!---
 killmong/killmong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
