@@ -11,7 +11,8 @@ I am a passionate software developer and freelancer focused on solving complex a
 - 🔭 I’m currently working on **Freelance projects via Upwork**
 - 🧠 I’m currently practicing on **LeetCode & HackerRank**
 - 💬 Ask me about **Data Structures, Algorithms, and Software Development**
-- 📫 Reach me at: [Your Email Here]
+- 📫 Reach me at: sharmanikhil87841@gmail.com
+  
 
 ---
 
