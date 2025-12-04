@@ -1,58 +1,83 @@
-# Hi there, I'm Gourav Sharma! 👋
+# 🌟 Gourav Sharma  
+### Software Developer • MERN Stack • Problem Solver  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gourav-sharma-a73960228/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solved-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pcoco/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/sharmanikhil8781)
-
-### 👨‍💻 About Me
-I am a passionate software developer and freelancer focused on solving complex algorithmic problems and building efficient applications. With a strong foundation in Data Structures and Algorithms, I turn logic into clean, scalable code.
-
-- 🔭 I’m currently working on **Freelance projects via Upwork**
-- 🧠 I’m currently practicing on **LeetCode & HackerRank**
-- 💬 Ask me about **Data Structures, Algorithms, and Software Development**
-- 📫 Reach me at: sharmanikhil87841@gmail.com
-  
+<a href="https://www.gsbuilds.in/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox" />
+</a>
+<a href="https://www.linkedin.com/in/gourav-sharma-a73960228/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share">
+  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork" />
+</a>
 
 ---
 
-### 🛠️ Languages and Tools
-<!-- UPDATE THIS SECTION: Delete the icons you don't use and keep the ones you do -->
+## 👋 About Me  
+
+I'm a developer who enjoys turning ideas into real-world applications and solving challenging logical problems. With hands-on experience in **MERN Stack**, **Next.js**, and strong **Data Structures & Algorithms** skills, I love building things that help others.
+
+- 🔭 Working on real-world **freelance projects**
+- 🚀 Building full-stack apps with **Next.js + MongoDB**
+- 🧠 Practicing DSA on **LeetCode & HackerRank**
+- 🌐 Portfolio: **https://www.gsbuilds.in/**
+- 📩 Email: **sharmanikhil87841@gmail.com**
+
+---
+
+## 🛠 Skills & Tools
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,git,mysql,vscode&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,cpp,java,python,git,github,html,css,vscode&theme=dark" />
 </p>
 
 ---
 
-### 🏆 Competitive Programming Stats
+## 🚀 Current Projects
+
+- **PragatiHub** – StackOverflow-like Q&A platform using MERN + Next.js  
+- **SwiftConnect** – Social media app inspired by Instagram  
+- **ByteStore** – Google Drive-style cloud storage  
+- **Freelance Projects** – Web dashboards, admin panels, and full-stack applications  
+
+---
+
+## 🧩 Competitive Programming
 
 <div align="center">
-  
-  <!-- LeetCode Stats -->
   <a href="https://leetcode.com/u/pcoco/">
     <img src="https://leetcard.jacoblin.cool/pcoco?theme=dark&font=Syne%20Mono&ext=contest" alt="LeetCode Stats" />
   </a>
-
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=killmong&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmong&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=killmong&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killmong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 🚀 Hire Me
-I am available for freelance work! If you need a dedicated developer to bring your ideas to life or solve tricky bugs, check out my Upwork profile.
+## 🌱 What I’m Learning Next
 
-[**View My Upwork Profile**](https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share)
+- System Design basics  
+- Advanced DSA patterns  
+- Deployment workflows (Docker, CI/CD, Cloud)  
 
 ---
+
+## 💼 Hire Me
+
+If you're looking for a reliable, detail-oriented developer for your next project, feel free to reach out.
+
+👉 **Upwork:**  
+[https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share](https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share)
+
+---
+
 <p align="center">
-  <i>Let's connect and code something amazing!</i>
+  <i>Thanks for visiting! Let’s build something awesome together 🚀</i>
 </p>
