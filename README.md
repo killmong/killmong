@@ -10,6 +10,12 @@
 <a href="https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share">
   <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork" />
 </a>
+<a href="https://www.instagram.com/gour_av09/">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="YOUR_YOUTUBE_CHANNEL_LINK">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 ---
 
@@ -36,6 +42,15 @@ I'm a developer who enjoys turning ideas into real-world applications and solvin
 ## 🚀 Current Projects
 
 - 💼 **Freelance Developer** – Currently engaged with a client on **Upwork**, delivering custom web solutions and converting designs to code.
+
+---
+
+## 📸 Life & Content
+
+Beyond coding, I love documenting my journey and sharing my thoughts:
+
+- 🎥 **YouTube:** I upload my college memories and vlogs. [Check out my channel](https://www.youtube.com/@GouravSharma-lx6fu)
+- 🗣️ **Instagram:** I talk about random things and life updates at **[@gour_av09](https://www.instagram.com/gour_av09/)**
 
 ---
 
