@@ -35,10 +35,7 @@ I'm a developer who enjoys turning ideas into real-world applications and solvin
 
 ## 🚀 Current Projects
 
-- **PragatiHub** – StackOverflow-like Q&A platform using MERN + Next.js  
-- **SwiftConnect** – Social media app inspired by Instagram  
-- **ByteStore** – Google Drive-style cloud storage  
-- **Freelance Projects** – Web dashboards, admin panels, and full-stack applications  
+- 💼 **Freelance Developer** – Currently engaged with a client on **Upwork**, delivering custom web solutions and converting designs to code.
 
 ---
 
@@ -73,8 +70,7 @@ I'm a developer who enjoys turning ideas into real-world applications and solvin
 
 If you're looking for a reliable, detail-oriented developer for your next project, feel free to reach out.
 
-👉 **Upwork:**  
-[https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share](https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share)
+👉 **Upwork:** [https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share](https://www.upwork.com/freelancers/~014efcf380664271c8?mp_source=share)
 
 ---
 
